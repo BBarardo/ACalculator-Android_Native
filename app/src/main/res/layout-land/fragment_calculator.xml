@@ -20,7 +20,6 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:clickable="true"
-            android:onClick="onClickHistory"
             app:srcCompat="@android:drawable/ic_menu_recent_history" />
 
         <TextView
@@ -76,7 +75,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="7"
                     android:text="7" />
 
@@ -85,7 +83,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="8"
                     android:text="8" />
 
@@ -94,7 +91,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="9"
                     android:text="9" />
 
@@ -103,7 +99,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="/"
                     android:text="/" />
 
@@ -112,7 +107,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="CE"
                     android:text="CE" />
 
@@ -131,7 +125,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="4"
                     android:text="4" />
 
@@ -140,7 +133,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="5"
                     android:text="5" />
 
@@ -149,7 +141,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="6"
                     android:text="6" />
 
@@ -159,7 +150,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="*"
                     android:text="*" />
 
@@ -168,7 +158,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="&lt;"
                     android:text="&lt;" />
             </LinearLayout>
@@ -186,7 +175,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="1"
                     android:text="1" />
 
@@ -196,7 +184,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="2"
                     android:text="2" />
 
@@ -205,7 +192,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="3"
                     android:text="3" />
 
@@ -215,7 +201,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="-"
                     android:text="-" />
             </LinearLayout>
@@ -232,7 +217,7 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
+
                     android:tag="0"
                     android:text="0" />
 
@@ -241,7 +226,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="00"
                     android:text="00" />
 
@@ -250,7 +234,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="."
                     android:text="." />
 
@@ -260,7 +243,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="+"
                     android:text="+" />
 
@@ -270,7 +252,6 @@
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:onClick="onClickSymbol"
                     android:tag="="
                     android:text="=" />
 
